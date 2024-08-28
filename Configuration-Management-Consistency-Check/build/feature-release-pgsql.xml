@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3880</product-id>
+	<feature-name>CM Consistency Check</feature-name>
+	<release>24.2</release>
+	<system-area>General</system-area>
+    <datasource-guid>4b451652-b01e-4e90-ace2-9d4932db4468</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
+
+
+
